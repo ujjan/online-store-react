@@ -4,7 +4,7 @@ class ProductList extends React.Component {
   render() {
     return (
       <div>
-        <p3>Hello from product ProductList</p3>
+        <h3>Hello from product ProductList</h3>
       </div>
     );
   }
